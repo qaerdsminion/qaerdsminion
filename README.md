@@ -1,4 +1,5 @@
-### Hi there 👋
+![image](https://user-images.githubusercontent.com/48480729/131114983-608488cf-77cd-42d3-b6b3-54c5ed9ed670.png)
+
 
 <!--
 **qaerdsminion/qaerdsminion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
